@@ -1,0 +1,34 @@
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+                        internet 08:d0:9f:8f:c4:cd -88  64,-1   Y  US NONE
+                        internet 08:d0:9f:8f:6c:6d -68  64,-1   Y  US NONE
+                        blizzard 08:d0:9f:8f:6c:6f -68  64,-1   Y  US WPA2(802.1x/AES/AES) 
+                        blizzard 08:d0:9f:8f:c4:cf -88  64,-1   Y  US WPA2(802.1x/AES/AES) 
+                        internet 00:08:30:e5:73:8d -70  56,-1   Y  US NONE
+                        blizzard 00:08:30:e5:73:8f -70  56,-1   Y  US WPA2(802.1x/AES/AES) 
+                        internet 08:d0:9f:87:ac:b2 -75  11      Y  US NONE
+                        internet 00:08:30:e5:73:82 -70  11      Y  US NONE
+                        internet d8:24:bd:4f:79:8d -86  36,+1   Y  US NONE
+                        blizzard 08:d0:9f:8f:6c:60 -71  6       Y  US WPA2(802.1x/AES/AES) 
+                        internet 08:d0:9f:8f:6c:62 -71  6       Y  US NONE
+                        blizzard 00:08:30:d7:77:20 -58  1       Y  US WPA2(802.1x/AES/AES) 
+                        internet 08:d0:9f:87:b6:72 -79  1       Y  US NONE
+                        internet 00:08:30:d7:77:22 -59  1       Y  US NONE
+                        internet 08:d0:9f:8f:5f:4d -82  157,+1  Y  US NONE
+                        internet 08:d0:9f:87:ac:bd -68  157,+1  Y  US NONE
+                        blizzard 08:d0:9f:87:ac:bf -68  157,+1  Y  US WPA2(802.1x/AES/AES) 
+                        blizzard d8:24:bd:4f:79:8f -86  36,+1   Y  US WPA2(802.1x/AES/AES) 
+                        internet 08:d0:9f:87:b6:7d -81  149,+1  Y  US NONE
+                        internet 00:08:30:d7:cc:bd -84  149,+1  Y  US NONE
+                        internet 00:08:30:d7:ae:4d -86  149,+1  Y  US NONE
+                        blizzard 08:d0:9f:87:b6:7f -81  149,+1  Y  US WPA2(802.1x/AES/AES) 
+                        blizzard 00:08:30:d7:cc:bf -84  149,+1  Y  US WPA2(802.1x/AES/AES) 
+                        blizzard 00:08:30:d7:c6:ff -84  48,-1   Y  US WPA2(802.1x/AES/AES) 
+                        internet 00:08:30:d7:c6:fd -85  48,-1   Y  US NONE
+                        internet 00:08:30:e5:63:6d -83  36,+1   Y  US NONE
+                        blizzard 00:08:30:e5:63:6f -82  36,+1   Y  US WPA2(802.1x/AES/AES) 
+                        internet 00:08:30:d7:77:2d -61  36,+1   Y  US NONE
+                        blizzard 00:08:30:d7:77:2f -58  36,+1   Y  US WPA2(802.1x/AES/AES) 
+
+1 IBSS network found:
+                            SSID BSSID             RSSI CHANNEL HT CC SECURITY (auth/unicast/group)
+           A9F1BDF1DAB1NVT4F4F59 fe:ff:1a:d2:81:a7 -72  10      N  -- WEP
