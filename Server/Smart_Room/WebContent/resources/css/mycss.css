@@ -1,0 +1,220 @@
+/* Only apply to screen width < 980px */
+@media (max-width: 979px) {
+	
+	.navbar-cisco .nav-collapse .nav > li {
+		/* border: 1px solid white; */
+		margin-bottom: 2px;
+	}
+}
+
+/* Only apply to screen width >= 980px */
+@media (min-width: 980px) {
+	body.signin {
+		padding-top: 60px;
+	    padding-bottom: 40px;
+	    background-color: #f5f5f5;
+	}
+}
+
+/* Apply universally */
+
+.alert {
+	background-image: none;
+	background-repeat: no-repeat;	
+	overflow-wrap: break-word;
+}
+
+.btn {
+	border: none;
+	border-radius: 2px;
+	padding: 5px 12px;
+	background-image: none;
+	box-shadow: none;
+	text-shadow: none;
+}
+
+.btn-large {
+	padding: 11px 19px;
+}
+
+.btn-danger-wireframe {
+	border: 2px solid #da4f49;
+	background-color: transparent;
+	color: #da4f49;
+}
+
+.btn-primary-wireframe {
+	border: 2px solid #006dcc;
+	background-color: transparent;
+	color: #006dcc;
+}
+
+div.loader {
+	position: absolute!important;
+	display: block;
+	top: 50%;
+	left: 50%;
+	margin-left: -50px;
+}
+
+div.loader img {
+	width: 100px;
+	padding: 10px;
+	border: 2px solid #ddd;
+	border-radius: 8px;
+}
+
+div.loader p {
+	font-size: 12pt;
+	font-weight: bold;
+	font-style: italic;
+}
+
+div.report {
+	overflow-x: auto;
+}
+
+div#report-area {
+	min-height: 250px;
+}
+
+.form-signin {
+	max-width: 300px;
+	padding: 19px 29px 29px;
+	margin: 0 auto 20px;
+	background-color: #fff;
+	border: 1px solid #e5e5e5;
+	-webkit-border-radius: 5px;
+	   -moz-border-radius: 5px;
+	        border-radius: 5px;
+	-webkit-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+	   -moz-box-shadow: 0 1px 2px rgba(0,0,0,.05);
+	        box-shadow: 0 1px 2px rgba(0,0,0,.05);
+}
+
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+	margin-bottom: 10px;
+}
+
+.form-signin input[type="text"],
+.form-signin input[type="password"] {
+	font-size: 16px;
+	height: auto;
+	margin-bottom: 15px;
+	padding: 7px 9px;
+}
+
+input.wide-input {
+	width: 100%!important;
+}
+
+input[type="text"] {
+	border-radius: 2px;
+}
+
+.nav a {
+	cursor: pointer;
+}
+
+.nav>li.active>a:hover,
+.nav>li.active>a:focus {
+	background-color: #274C95;
+}
+
+.navbar .btn-navbar {
+	background-color: transparent;
+	background-image: none;
+	border: 1px solid white;
+}
+
+.navbar .btn-navbar:hover,
+.navbar .btn-navbar:focus {
+	color: white;
+	background-color: #274C95;
+}
+
+.navbar-cisco {
+	background-image: none;
+	background-color: #428bca;
+}
+
+.navbar-cisco .navbar-collapse {
+	border-color: #274C95;
+}
+
+.navbar-cisco .navbar-header {
+	margin-left: 0px;
+}
+
+.navbar-cisco .navbar-inner {
+  background-image: none;
+  background-color: #006dcc;
+}
+
+.navbar-cisco .nav li a {
+	color: white;
+	padding: 15px 15px 15px;
+	text-shadow: none;
+}
+
+.navbar-cisco .nav li a:hover,
+.navbar-cisco .nav li a:focus {
+	color: white;
+	background-color: #274C95;
+}
+
+.navbar-cisco .nav .active a {
+	color: white;
+	background-color: #274C95;
+}
+
+.navbar-cisco .nav .active a:hover,
+.navbar-cisco .nav .active a:focus {
+	color: white;
+	background-color: #274C95;
+}
+
+.navbar .company-logo {
+	float: left;
+	width: 63px;
+	height: 33px;
+	margin: 8px 35px 8px 2px;
+	background: url("../images/company_logo.png") 0px 0px;
+	background-repeat: no-repeat;
+}
+
+.navbar-toggle {
+	border: 1px solid white;
+}
+
+.navbar-toggle .icon-bar {
+	background-color: white;
+}
+
+p#report-description {
+	margin-bottom: 20px;
+}
+
+.page-header {
+	margin-top: 10px;
+}
+
+.page-header h1 button {
+	float: right;
+	margin-top: 5px;
+	margin-left: 4px;
+}
+
+.page-header h1 div.btn-group {
+	float: right;
+	margin-left: 4px;
+}
+
+th {
+	text-align: center;
+}
+
+tbody {
+	text-align: center;
+}
